@@ -62,7 +62,7 @@ Debe ser funcional y coherente con el análisis y la historia que vayan a relata
 
 Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando. Asimismo, se espera que en la presentación explique el análisis y la funcionalidad de los KPIs sugeridos.
 
-#### :warning: `Análisis` :warning:
+#### `Análisis` :warning:
 
 No se calificará solamente la producción de gráficos con datos (dashboard), sino también los **análisis y conclusiones** que encuentren en ellos.
   
