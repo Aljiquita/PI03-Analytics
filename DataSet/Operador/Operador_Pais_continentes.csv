@@ -1,11 +1,6 @@
 ﻿Pais;Continente
 Africa; África
 Africa Occidental; África
-Antillas Neerlandesas; América del Sur
-Banglades; Asia
-Caribe Occidental; América del Sur
-Irlanda; Europa
-Union Sovietica; Europa
 Angola; África
 Argelia; África
 Cabo Verde; África
@@ -19,10 +14,8 @@ Egipto; África
 Egypt; África
 Equatorial Guinea; África
 Ethiopia; África
-Fiyi; África
 Gabon; África
 Groenlandia; África
-Guatemala; África
 Guernsey; África
 Kenia; África
 Kenya; África
@@ -41,7 +34,6 @@ Nigeria; África
 Republica del Congo; África
 Republica Democratica del Congo; África
 Rhodesia; África
-Rodesia; África
 Royal Air Maroc; África
 Ruanda; África
 Senegal; África
@@ -56,51 +48,17 @@ Yibuti; África
 Zaire; África
 Zambia; África
 Zimbabue; África
-Belice; América Central
-Costa Rica; América Central
-Cuba; América Central
-El Salvador; América Central
-Grecia; América Central
-Guinea Ecuatorial; América Central
-Guinea-Bissau; América Central
-Nicaragua; América Central
-Panama; América Central
-Republica Dominicana; América Central
-Trinidad y Tobago; América Central
-Antigua y Barbuda; América del Norte
-Aruba; América del Norte
-Bahamas; América del Norte
-Canada; América del Norte
-Estados Unidos; América del Norte
-Ghana; América del Norte
-Islas del Caribe; América del Norte
-Islas Virgenes; América del Norte
-Jamaica; América del Norte
-Martinica; América del Norte
-Mexico; América del Norte
-Montserrat; América del Norte
-Puerto Rico; América del Norte
-San Vicente y las Granadinas; América del Norte
-United States; América del Norte
-Argentina; América del Sur
-Bolivia; América del Sur
-Brasil; América del Sur
-Brazil; América del Sur
-Chile; América del Sur
-Colombia; América del Sur
-Ecuador; América del Sur
-Guinea; América del Sur
-Paraguay; América del Sur
-Peru; América del Sur
-Surinam; América del Sur
-Uruguaya; América del Sur
-Venezuela; América del Sur
+Ghana; África
+Guinea; África
+Guinea Ecuatorial; África
+Guinea-Bissau; África
 Afganistan; Asia
 Afghanistan; Asia
 Arabia Saudita; Asia
 Armenia; Asia
 Azerbaiyan; Asia
 Bahrein; Asia
+Banglades; Asia
 Bangladesh; Asia
 Birmania; Asia
 Camboya; Asia
@@ -109,8 +67,6 @@ Corea del Norte; Asia
 Corea del Sur; Asia
 Emiratos Arabes Unidos; Asia
 Etiopia; Asia
-Guyana; Asia
-Honduras; Asia
 Hong Kong; Asia
 Hungria; Asia
 India; Asia
@@ -146,6 +102,8 @@ Uzbekistan; Asia
 Vietnam; Asia
 Vietnam del Sur; Asia
 Yemen; Asia
+Filipinas; Asia
+Indonesia; Asia
 Albania; Europa
 Alemania; Europa
 Alemania Occidental; Europa
@@ -161,17 +119,15 @@ Dinamarca; Europa
 Eslovaquia; Europa
 Eslovenia; Europa
 España; Europa
-Filipinas; Europa
 Finlandia; Europa
 France; Europa
 Francia; Europa
 Georgia; Europa
 Germany; Europa
 Greece; Europa
-Haiti; Europa
-Indonesia; Europa
 Irak; Europa
 Iran; Europa
+Irlanda; Europa
 Islandia; Europa
 Italia; Europa
 Italy; Europa
@@ -188,17 +144,19 @@ Portugal; Europa
 Reino Unido; Europa
 Republica Checa; Europa
 Rumania; Europa
+Rusia; Europa
 Serbia; Europa
 Suecia; Europa
 Suiza; Europa
-Ucrania; Europa
-United Kingdom; Europa
-Yugoslavia; Europa
-Rusia; Europa
 Turquia; Europa
+Ucrania; Europa
+Union Sovietica; Europa
+United Kingdom; Europa
+Islas del Caribe; Europa
+Grecia; Europa
+Fiyi; Oceanía
 Australia; Oceanía
 Finland; Oceanía
-Islas del Canal; Oceanía
 Islas Salomon; Oceanía
 Nueva Caledonia; Oceanía
 Nueva Zelanda; Oceanía
@@ -206,3 +164,45 @@ Papua Nueva Guinea; Oceanía
 Polinesia Francesa; Oceanía
 Samoa; Oceanía
 Vanuatu; Oceanía
+Guatemala;North America
+Rodesia;North America
+Haiti;North America
+Islas del Canal;North America
+Antigua y Barbuda;North America
+Aruba;North America
+Bahamas;North America
+Canada;North America
+Estados Unidos;North America
+Islas Virgenes;North America
+Jamaica;North America
+Martinica;North America
+Mexico;North America
+Montserrat;North America
+Puerto Rico;North America
+San Vicente y las Granadinas;North America
+United States;North America
+Caribe Occidental;North America
+Guyana;South America
+Honduras;South America
+Yugoslavia;South America
+Antillas Neerlandesas;South America
+Argentina;South America
+Belice;South America
+Bolivia;South America
+Brasil;South America
+Brazil;South America
+Chile;South America
+Colombia;South America
+Costa Rica;South America
+Cuba;South America
+Ecuador;South America
+El Salvador;South America
+Nicaragua;South America
+Panama;South America
+Paraguay;South America
+Peru;South America
+Republica Dominicana;South America
+Surinam;South America
+Trinidad y Tobago;South America
+Uruguaya;South America
+Venezuela;South America
